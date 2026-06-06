@@ -1,2 +1,5 @@
 ﻿<Solution>
+  <Project Path="NaughtyAttributes.Core.csproj" />
+  <Project Path="NaughtyAttributes.Editor.csproj" />
+  <Project Path="NaughtyAttributes.Test.csproj" />
 </Solution>
