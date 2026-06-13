@@ -760,7 +760,8 @@ MonoBehaviour:
   conveyorCreateHighlighter: {fileID: 6693545823457919976, guid: 8daff28e4e523ad48a4821dd4c451ae8, type: 3}
   highlightersParent: {fileID: 1858970361}
   conveyorSplinePrefab: {fileID: 8862236952430997025, guid: a99fbdc163331d940b2f340875e46327, type: 3}
-  splineList: []
+  splineList:
+  - {fileID: 0}
 --- !u!4 &4447062630288855467 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6205856120709209863, guid: aba45f8f57c0a0b4a8b7c769c66cbd82, type: 3}
